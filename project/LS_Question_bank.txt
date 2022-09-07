@@ -1,0 +1,50 @@
+1. Which of the following command is used to count the total number of lines, words, and characters contained in a file?
+a) wc
+b) wcount
+c) countw
+d) None of the above
+2. The command “mknod myfifo b 4 16”
+a) Will create a block device if user is root
+b) Will create a block device for all users
+c) Will create a FIFO if user is not root
+d) None of the mentioned
+3. Which command is used to set terminal IO characteristic?
+a) tty
+b) ctty
+c) ptty
+d) stty
+4. Which command is used to record a user login session in a file
+a) macro
+b) read
+c) script
+d) none of the mentioned
+5. Which command is used to display the operating system name
+a) os
+b) unix
+c) kernel
+d) uname
+6. Which command is used to display the unix version
+a) uname -r
+b) uname -n
+c) uname -t
+d) kernel
+7. Which command is used to print a file
+a) print
+b) ptr
+c) lpr
+d) none of the mentioned
+8. Which option of ls command used to view file inode number
+a) –l
+b) -o
+c) –a
+d) –i
+9. Find / -name ‘*’ will
+a) List all files and directories recursively starting from /
+b) List a file named * in /
+c) List all files in / directory
+d) List all files and directories in / directory
+10. Which of the following directory contains configuration files in Linux?
+ a) /dev/
+ b) /etc/
+ c) /bin/
+ d) /root/

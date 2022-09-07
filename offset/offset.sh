@@ -1,0 +1,11 @@
+#!/bin/bash
+dfenfdf
+daddf
+dfr
+grkgjrnv
+cvfrgr
+dfgfrgr
+afgg
+dfgfgfh
+nresgdgs
+dfggrgr
